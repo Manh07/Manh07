@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Manh – Embedded Software Engineer
 
-I'm an embedded systems engineer with solid experience in STM32, ESP32, Arduino, and Raspberry Pi. I focus on firmware development, rapid prototyping, and building reliable IoT solutions for real-world applications.
+I'm an embedded systems engineer with solid experience in STM32, ESP32, Arduino, 8051, Raspberry Pi,... I focus on firmware development, rapid prototyping, and building reliable IoT solutions for real-world applications.
 
 - 🔧 Specialized in: C/C++, FreeRTOS, Modbus, MQTT, PID control, and low-level driver development
 - 🌐 Experienced with: REST APIs, MQTT brokers, and cloud integration (Blynk, Firebase, custom dashboards)
