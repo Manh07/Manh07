@@ -1,6 +1,6 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, I'm David Manh
 
-## 🔥 DM7 - Embedded 🔥
+## 🔥 TDM Solutions 🔥
 
 I'm an embedded systems engineer with solid experience in STM32, ESP32, Arduino, 8051, Raspberry Pi,... I focus on firmware development, rapid prototyping, and building reliable IoT solutions for real-world applications.
 
